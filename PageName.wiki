@@ -1,15 +1,8 @@
 #summary One-sentence summary of this page.
 #labels Phase-Design
 
-= Introduction =
-
-Current needs for this project.
-
-
-= Details =
+= Current needs for this project =
 
   * Source Code
   * Designs
   * Contributors 
-
-
